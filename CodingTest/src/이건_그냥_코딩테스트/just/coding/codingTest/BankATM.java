@@ -16,7 +16,7 @@ public class BankATM {
 	public int[] solution(int money) { // 왜 근데 매개변수가 필요한 걸까?
 
 		int[] answer = new int[9];
-		int[] sort_money = new int[] { 50000, 10000, 5000, 1000, 500, 100, 50, 10 };// 지폐종류
+		int[] sort_money = new int[] { 50000, 10000, 5000, 1000, 500, 100, 50, 10, 1 };// 지폐종류
 
 		for (int i = 0; i < sort_money.length; i++) { // 애들이 끝까지 나눌 수 있어야되니깐 길이 만큼 반복
 			if (i == 0) { // 맨 처음 수라면 50000으로 먼저 나누게 하고
