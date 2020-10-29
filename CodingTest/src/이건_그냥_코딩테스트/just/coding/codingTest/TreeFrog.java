@@ -1,5 +1,6 @@
 package 이건_그냥_코딩테스트.just.coding.codingTest;
 
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -41,8 +42,10 @@ public class TreeFrog {
 		
 		array_word = word.split("");
 		System.out.println("2. "+word);
-		for (String c_word : array_word) {
+		System.out.println("2.5 " + Arrays.toString(array_word));
+		for (String c_word : array_word) { // 배열에 한 칸씩 띄어쓰기까지 존재.
 			boolean is_upp = Character.isUpperCase(c_word.charAt(0));// 이거 굳이 charAt을 써야하는 이유가 뭐야 !! 문자 하나 나올텐데 문자가 아닌가봐 에러뜨더라
+			// 이거 boolean이라서 char 써야되는데 c_word가 String이라 변환해줘야함
 			//isUpperCase(c_word) Error : 형식의 isUpperCase(char) 메서드는 인수(String)에 해당되지 않음
 			System.out.println("3. "+is_upp);
 			System.out.println("3.5 " + c_word);
