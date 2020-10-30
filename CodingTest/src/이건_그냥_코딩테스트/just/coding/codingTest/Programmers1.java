@@ -21,29 +21,29 @@ public class Programmers1 {
 	public String solution(String s, int n) {
 		String answer = "";
 		String[] array_word;// 입력한 문자를 여기다가 정립할꺼
-		String[] change_word;
 
-		Map<String, String> alpha = new HashMap<>();
-		char[] alpabat = new char[26];
+		Map<String, String> alpha = new HashMap<>(); // 알파에다가 원래 값과 바뀔 값을 넣습니다.
+		char[] alpabat = new char[26]; //26개이므로 반복문도 26번
 
 		for (int i = 0; i < alpabat.length; i++) {
-			int a = ('A' + i);
-			int b = a + n;
+			int a = ('A' + i); // A-Z까지 배열
+			int b = a + n;// 그 배열한 것에서 한 칸씩 밀려나기
 			if (b <= 90) {
-				alpha.put(Character.toString((char) (a)), Character.toString((char) (b)));
+				alpha.put(Character.toString((char) (a)), Character.toString((char) (b))); // 안 넘어가네?
 			} else {
-				alpha.put(Character.toString((char) (a)), Character.toString((char) (b-26)));
+				alpha.put(Character.toString((char) (a)), Character.toString((char) (b-26))); // 넘어가네?
 
 			}
 		}
 		System.out.println(alpha);
-		array_word = s.split("");
+		array_word = s.split(""); // 자, 입력받은 걸 ""단위로 짜릅니다. 
 		System.out.println("array_word : "+ Arrays.toString(array_word));
 
 		for (String c_word : array_word) {
-			boolean is_upp = Character.isUpperCase(c_word.charAt(0));
+			boolean is_upp = Character.isUpperCase(c_word.charAt(0)); // 모든 값이 대문자인지 확인
 			System.out.println("is_upp : "+is_upp);
-			String temp_result = alpha.get(c_word.toUpperCase());
+			String temp_result = alpha.get(c_word.toUpperCase()); // 애들을 대문자로 설정해놔서 바뀌는 것도 대문자
+			// isUpp를 통해서 어차피 소문자였으면 소문자로 돌아갈꺼임.
 			System.out.println("temp_result : "+temp_result);
 			if (temp_result == null) {
 				temp_result = " ";

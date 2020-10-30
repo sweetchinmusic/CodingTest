@@ -29,7 +29,7 @@ public class RetiMan {
 
 		String[] a = new String[] { "Fillpa", "Josipa", "Marina", "Nikola" };
 		String[] b = new String[] { "Fillpa", "Josipa", "Marina", "Nikola", "Vinko" };
-//		new RetiMan().solution1(a,b); // 아니 왜 부르고 싶은데 부를 수가 없어
+//		new RetiMan().solution1(a,b); // 아니 왜 부르고 싶은데 부를 수가 없
 	}
 
 	class AnotherSolution {
