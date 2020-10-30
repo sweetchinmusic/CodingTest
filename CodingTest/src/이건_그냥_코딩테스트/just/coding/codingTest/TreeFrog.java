@@ -50,7 +50,7 @@ public class TreeFrog {
 			System.out.println("3. "+is_upp);
 			System.out.println("3.5 " + c_word);
 			String temp_result = alpha.get(c_word.toUpperCase()); // 얘는 뭐야 다 대문자로 넣겠다는 말인가? 맞음 ㅇㅇ 애초에 is_upp으로 T/F 구분해뒀기 때문에
-			
+			// value가 나오네? alpha에 있는 value를 꺼내려고 key를 전부 대문자로 바꿔서 찾은겨
 			System.out.println("4. " +temp_result);
 			if (temp_result == null) {
 				temp_result = " ";

@@ -30,6 +30,7 @@ public class ThreeSixNine {
 			}
 		}
 		System.out.println(result);
+//		System.out.println(String.format("%01d",01));
 		return result;
 	}
 }
