@@ -20,9 +20,10 @@ public class Programmers3 {
 
 			for (int m = 2; m < i; m++) {
 
-				if (i % m == 0) {
+				if (i % m == 0) { // 나눠서 0이 될  거면 소수가 아니지
 
 					isPrime = false;
+					break;
 
 				}
 

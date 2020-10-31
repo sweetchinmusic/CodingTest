@@ -1,5 +1,6 @@
 package 이건_그냥_코딩테스트.just.coding.codingTest;
 
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -51,4 +52,22 @@ public class RetiMan {
 		}
 	}
 
+
+	
+	public String solution4(String[] participant, String[] completion) {
+        Arrays.sort(participant);
+        Arrays.sort(completion);
+        int i; // i를 바깥에 넣는 이유 completion 과 participant 순서가 같을 때 ( 마지막일 때 ) 처리를 하려고.
+        for ( i=0; i<completion.length; i++){// 완주한 사람 만큼 돌꺼고,
+
+            if (!participant[i].equals(completion[i])){ // 이렇게만 확인해도 되나?
+                return participant[i];
+            }
+        }
+        return participant[i];
+    }
+	
+	
+	
 }
+
