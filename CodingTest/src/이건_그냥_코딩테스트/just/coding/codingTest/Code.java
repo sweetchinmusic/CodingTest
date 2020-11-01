@@ -23,7 +23,7 @@ public class Code {
 		
 		String[] array = str.split(""); // 문자열 하나씩 짤.
 		
-		List<String> list = Arrays.asList(array); // 아 사이즈 바꿀라고 ? 이건 arrayList로 바꿔준다.
+		List<String> list = Arrays.asList(array); // 아 사이즈 바꿀라고 ? 이건 일반배열을 arrayList로 바꿔준다.
 		
 		while(check) { // 시작
 			check = false; // 반복 금지
@@ -31,12 +31,12 @@ public class Code {
 			cur_string.addAll(list); // 안에 인자로 콜렉션을 넘기면 그것의 아이템이 모두 리스트에 추가됨.
 			
 			
-			for(int i = 0; i<list.size()-1 ; i++) {
-				
+			for(int i = 0; i<list.size() ; i++) { // 조심해야함. 이거 마이너스 안하면 IndexOutofBoundsException 뜬다. 인덱스가 하나 더 많다는 얘기야.
+				System.out.println(i);
 				if( list.get(i).equals(list.get(i + 1))) { // 앞과 뒤가 같은게 있냐
 					System.out.println(cur_string);
-					System.out.println(list.get(i) + " " + list.get(i + 1));
-					cur_string.remove(i + 1); // List 는 remove해서 지울수가 있나벼 // ArrayList는 안되는 것 같더라고
+					System.out.println(list.get(i) + " " + list.get(i )); // 아마 얘 때문일껄?
+					cur_string.remove(i ); // List 는 remove해서 지울수가 있나벼 // ArrayList는 안되는 것 같더라고
 					cur_string.remove(i);
 					list = cur_string; // 솔직히 이건 읽으면서 이해를 해보자
 					check = true;
