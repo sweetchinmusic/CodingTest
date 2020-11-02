@@ -25,8 +25,7 @@ public class RealTestVersion {
 
 		while (iter.hasNext()) {
 			String keys = (String) iter.next();
-			System.out.println("키값 =" + keys);
-			System.out.println("밸류값=" + map.get(keys));
+			System.out.println("[key]:" + keys + ", [value]:" + map.get(keys));
 		}
 
 		// 방법 02 : keySet()
