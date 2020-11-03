@@ -39,6 +39,6 @@ public class DesimalCounting { // 소수는 1과 자기 자신 외 다른 수로
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		int result = getCount(n);
-		System.out.println(result);
+		System.out.println("소수 갯수는 : " + result);
 	}
 }
