@@ -2,10 +2,10 @@ package 이건_그냥_코딩테스트.just.coding.codingTest;
 
 import java.util.Arrays;
 
-public class Programmers2 {
+public class AlphabetCounting {
 
 	public static void main(String[] args) {
-		new Programmers2().solution("Pyy");
+		new AlphabetCounting().solution("Pyy");
 
 	}
 

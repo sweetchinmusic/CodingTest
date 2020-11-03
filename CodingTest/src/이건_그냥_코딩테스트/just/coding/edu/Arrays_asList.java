@@ -16,7 +16,7 @@ public class Arrays_asList {
 		List<String> lst = Arrays.asList(strs); // new ArrayList<String>(); 대신에 사용
 		
 		System.out.println(lst); // [alpha, beta, charlie]
-		//lst.add("ttt"); // error : asList()로 List를 생성하면 원소를 새롭게 추가할 수 없음 얘도 기본 배열을 갖게됨.
+		//lst.add("ttt"); // error : asList()로 List를 생성하면 사실 List가 아니기 때문에 원소를 새롭게 추가할 수 없음 얘도 기본 배열을 갖게됨.
 		// Exception in thread "main" java.lang.UnsupportedOperationException
 		// Changes in array or list write thru
 		strs[0] += "88"; // 그래서 str에다가 추가를 한 다음에

@@ -12,10 +12,10 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Programmers1 {
+public class ChangingAlpha {
 
 	public static void main(String[] args) {
-		System.out.println("answer : "+new Programmers1().solution("z  v", 1));
+		System.out.println("answer : "+new ChangingAlpha().solution("zv",1));
 	}
 
 	public String solution(String s, int n) {

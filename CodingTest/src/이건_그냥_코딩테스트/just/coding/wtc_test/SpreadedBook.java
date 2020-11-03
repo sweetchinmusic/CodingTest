@@ -1,4 +1,4 @@
-package 이건_그냥_코딩테스트.just.coding.codingTest;
+package 이건_그냥_코딩테스트.just.coding.wtc_test;
 
 public class SpreadedBook {
 

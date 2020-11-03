@@ -7,8 +7,8 @@ public class FigureOutNumbers {
 
 	public static void main(String[] args) {
 		String[] a = { "119", "97674223", "1195524421" };
-		new FigureOutNumbers().solution(a);
-
+		new FigureOutNumbers().solution(new String[] {"119", "97674223", "1195524421"}); // new String[] {""}로 되는구나 문자열 입력하기
+		//매개변수 넣기
 	}
 
 	public boolean solution(String[] phone_book) {
