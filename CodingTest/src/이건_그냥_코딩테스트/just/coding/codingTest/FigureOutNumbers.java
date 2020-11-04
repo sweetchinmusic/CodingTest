@@ -18,7 +18,7 @@ public class FigureOutNumbers {
 			String[] array = phone_book[i].split("");
 			
 			List<String> list = Arrays.asList(phone_book);
-
+			System.out.println(list);
 			// 짤라놓고 여기서 또 for문을 돌릴꺼야
 			
 			for (int j = 0; j < phone_book[i].length(); j++) {

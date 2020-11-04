@@ -11,7 +11,7 @@ class NumberK {
 		//[1, 5, 2, 6, 3, 7, 4]         [2, 5, 3], [4, 4, 1], [1, 7, 3]
 		Scanner sc = new Scanner(System.in);
 		
-		new NumberK().solution();
+		new NumberK().solution(new int []{1,5,2,6,3,7,4}, new int[][] {{2,5,3},{4,4,1},{1,7,3}}); // 이중 배열 매개변수 값 입력 이렇게 하면 되네 ㅋㅋ
 	}
 	
 	public int[] solution(int[] array, int[][] commands) {
