@@ -14,6 +14,7 @@
 	여벌 체육복이 있는 학생만 다른 학생에게 체육복을 빌려줄 수 있습니다.
 	여벌 체육복을 가져온 학생이 체육복을 도난당했을 수 있습니다. 이때 이 학생은 체육복을 하나만 도난당했다고 가정하며, 남은 체육복이 하나이기에 다른 학생에게는 체육복을 빌려줄 수 없습니다.
  */
+
 package 이건_그냥_코딩테스트.just.coding.codingTest;
 
 public class Adidas {
@@ -25,19 +26,20 @@ public class Adidas {
         //여벌 옷을 가지고 있는 학생이 도난 당하면 빌려줄 수 없도록 만든다.
         for(int i=0; i<lost.length; i++) { // 잃어버린 사람 배열 안에 수
             for(int j=0; j<reserve.length; j++) { // 줄 수 있는 사람 즉 여유분
-                if(lost[i]==reserve[j]) { // 이게 같다 ? 그럼 빌려 줄 수가 없지
+                if(lost[i]==reserve[j]) { // 이게 같다 ? 그럼 빌려 줄 수가 없지 // 같으면 게다가 reserve에서 벗어나도 lost에서 다시 돌아올 수 있잖아?? 없는데?
                     exist++; // 자기꺼는 하나 있지
                     lost[i] = -1; // 배열에 표시해두는거야 -1로
                     reserve[j] = -1;
-                    break;
+                    break;	
                 }
             }
-        }
+        } // 왜 break를 하면 reserve 반복을 빠져나가는데 이제 그 인덱스에 잃어버린 사람은 해결됐으니깐
         
         //옷을 빌려주고 -1로 만들어 뒤의 학생에게 빌려주지 않게 한다.
         for(int i=0; i<lost.length; i++) {
             for(int j=0; j<reserve.length; j++) { 
-                if(lost[i]==reserve[j]+1 || lost[i]==reserve[j]-1) {
+                if(lost[i]==reserve[j]+1 || lost[i]==reserve[j]-1) { // 역시나 reserve가 빌려줬으니깐, 왜 lost는 이런게 없냐! 왜냐하면 잃어버린 애 다음으로 넘어가면
+                	// 3이 reserve고 2,4 가 lost 일 때 2한테 빌려줬으니깐 -1 이것만 하면 됨. 다음으로 넘어갈꺼니깐?
                     count++;
                     reserve[j] = -1;
                     break;

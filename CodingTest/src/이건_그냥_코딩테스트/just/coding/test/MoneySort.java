@@ -2,7 +2,7 @@ package 이건_그냥_코딩테스트.just.coding.test;
 
 import java.util.Arrays;
 
-public class Solution {
+public class MoneySort {
 	
 	
 	public int[] solution(int money) { // 돈을 넣습니다.
