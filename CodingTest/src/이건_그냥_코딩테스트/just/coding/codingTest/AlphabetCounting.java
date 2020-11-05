@@ -2,7 +2,7 @@ package 이건_그냥_코딩테스트.just.coding.codingTest;
 
 import java.util.Arrays;
 
-public class AlphabetCounting {
+public class AlphabetCounting { // 알파벳을 센다.
 
 	public static void main(String[] args) {
 		new AlphabetCounting().solution("Pyy");

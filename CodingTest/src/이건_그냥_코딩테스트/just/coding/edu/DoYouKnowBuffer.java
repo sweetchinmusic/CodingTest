@@ -1,9 +1,9 @@
-package 이건_그냥_코딩테스트.just.coding.test;
+package 이건_그냥_코딩테스트.just.coding.edu;
 
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class Main {
+public class DoYouKnowBuffer { // 해괴망측한 토크나이저는 코딩 때 안 나올 겁니다.
 
 	public static void main(String[] args) throws Exception {
 		

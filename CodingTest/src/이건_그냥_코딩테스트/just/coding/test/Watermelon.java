@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Watermelon {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { // 너무 간단해서 교육에 넣지 않겠어
 
 		Scanner sc = new Scanner(System.in);
 		

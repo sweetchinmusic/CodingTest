@@ -12,7 +12,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class ChangingAlpha {
+public class ChangingAlpha { // 알파벳 해당 순서로 넘긴다.
 
 	public static void main(String[] args) {
 		System.out.println("answer : "+new ChangingAlpha().solution("zv",1));

@@ -20,8 +20,8 @@ import java.util.Map;
 [[crow_mask, face], [blue_sunglasses, face], [smoky_makeup, face]]	            3
  * 
  */
-class Disguise {
-	public static void main(String[] args) {
+class Disguise {// 위장
+	public static void main(String[] args) { // 경우의 수인데 이걸 어떻게 적용 시킬 수 있을까. 해쉬니깐 한 번 봐두자.
 		// new Disguise().solution(new String[][] {{"yellow_hat", "headgear"},
 		// {"blue_sunglasses", "eyewear"}, {"green_turban", "headgear"}});
 		String[][] a = { { "yellow_hat", "headgear" }, { "blue_sunglasses", "eyewear" },

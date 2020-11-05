@@ -9,7 +9,7 @@ public class BiggestNumber {
 
 	}
 
-	public String solution1(String number, int k) {
+	public String solution1(String number, int k) { // 솔직히 이거 너무 김.
 		StringBuilder sb = new StringBuilder();
 
 		int cnt = number.length() - k; // K개를 지우는 문제이지만 변환을 둬서 n 만큼 선택한다고 바꾼다.

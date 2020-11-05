@@ -2,7 +2,7 @@ package 이건_그냥_코딩테스트.just.coding.test;
 
 public class MutiplicationTable {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { // 구구단
 
 		
 		// 구구단을 실행하기 위한 int i= 2;

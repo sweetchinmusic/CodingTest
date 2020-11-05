@@ -2,7 +2,7 @@ package 이건_그냥_코딩테스트.just.coding.test;
 
 import java.util.Scanner;
 
-public class ReverseStarMaker {
+public class ReverseStarMaker { // 역 별찍기
 
 	public static void main(String[] args) {
 

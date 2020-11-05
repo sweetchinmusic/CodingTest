@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class SumOfEven {
 
 	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);// 짝수의 합 따로 교육에 넣지 않겠어
 
 		int a = sc.nextInt();
 		int sum = 0;

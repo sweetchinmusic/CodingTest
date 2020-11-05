@@ -1,7 +1,7 @@
 package 이건_그냥_코딩테스트.just.coding.codingTest;
 
 public class 각자리수합 {
-	public int solution(int n) {
+	public int solution(int n) { // 각 자리에 있는 숫자들을 더 해 총 합을 숫자로 만든다.
 		int answer = 0;
 
 		while (n != 0) {

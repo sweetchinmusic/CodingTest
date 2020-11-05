@@ -7,7 +7,7 @@ public class RetiredMan {
 
 	public class Hash {
 
-		public void main(String[] args) {
+		public void main(String[] args) { // 완주하지 못한 남자. 결국엔 중복되는 이름이 있는지 없는지 배열에 있는 요소들을 확인한 다음에 제거해 나가는 것.
 
 			System.out.println(solution(new String[] { "mislav", "stanko", "mislav", "ana" },
 					new String[] { "stanko", "ana", "mislav" }));
