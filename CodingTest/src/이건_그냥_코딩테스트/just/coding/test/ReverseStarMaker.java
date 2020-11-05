@@ -2,11 +2,11 @@ package 이건_그냥_코딩테스트.just.coding.test;
 
 import java.util.Scanner;
 
-public class BetaTest {
+public class ReverseStarMaker {
 
 	public static void main(String[] args) {
 
-		new BetaTest().solution();
+		new ReverseStarMaker().solution();
 	}
 
 	Scanner sc = new Scanner(System.in);
