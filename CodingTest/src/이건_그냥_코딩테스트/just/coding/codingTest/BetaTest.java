@@ -1,4 +1,4 @@
-package 이건_그냥_코딩테스트.just.coding.test;
+package 이건_그냥_코딩테스트.just.coding.codingTest;
 
 import java.util.Scanner;
 
@@ -14,16 +14,12 @@ public class BetaTest {
 		for (int i = 0; i < 10; i++) {
 			int count = 0;
 			for (int j = 0; j < str.length(); j++) {
-				if((str.charAt(j) - '0' == i)) {
-					count ++;
+				if ((str.charAt(j) - '0' == i)) {
+					count++;
 				}
 
 			}
 			System.out.println(count);
 		}
-
-//		new BetaTest().solution();
 	}
-
-//	public int solution() {}
 }
