@@ -1,16 +1,16 @@
-package 이건_그냥_코딩테스트.just.coding.test;
+package 이건_그냥_코딩테스트.just.coding.codingTest;
 
 import java.util.HashMap;
 
-public class BetaTest {
+public class AlphabetCounting2 {
 
 	public static void main(String[] args) { // 각 알파벳들이 몇 번 나왔는지 확인하는 메소드
 
-		BetaTest fdc = new BetaTest();
+		AlphabetCounting2 fdc = new AlphabetCounting2();
 
 		String str = "aabbbbcdeeefgggabcdefg";
 		
-		BetaTest.AnalysisDuplicateString(str);
+		AlphabetCounting2.AnalysisDuplicateString(str);
 	}
 
 	private static void AnalysisDuplicateString(String str) {

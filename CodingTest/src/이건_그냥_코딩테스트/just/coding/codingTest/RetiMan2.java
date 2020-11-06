@@ -3,11 +3,12 @@ import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.util.Arrays;
+// RetiMan의 솔3 과 똑같지만 출력하는 방법에서 넘나 다른 방식이라 일단 두기로 했습니다.
 
 public class RetiMan2 {
 	static String[] participant = { "leo", "kiki", "eden" };
 	static String[] completion = { "eden", "kiki" };
-
+	
 	public static void main(String[] args) throws IOException {
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 		bw.write(solution(participant, completion));
