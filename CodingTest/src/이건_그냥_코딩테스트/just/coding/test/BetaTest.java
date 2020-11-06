@@ -1,33 +1,44 @@
 package 이건_그냥_코딩테스트.just.coding.test;
 
-import java.util.HashMap;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 public class BetaTest {
 
-	public static void main(String[] args) { // 각 알파벳들이 몇 번 나왔는지 확인하는 메소드
-
-		BetaTest fdc = new BetaTest();
-
-		String str = "aabbbbcdeeefgggabcdefg";
+	public static void main(String[] args) { 
 		
-		BetaTest.AnalysisDuplicateString(str);
 	}
-
-	private static void AnalysisDuplicateString(String str) {
-
-		char arr[] = str.toCharArray();
-
-		HashMap<Character, Integer> hm = new HashMap<Character, Integer>();
-		for (int i = 0; i < arr.length; i++) {
-			if (!hm.containsKey(arr[i])) {
-				hm.put(arr[i], 0);
+	public String solution(String cryptogram) {
+		return decode(cryptogram);
+		
+		
+	}
+	public String decode(String str) {
+		String result = "";
+		
+		boolean check = true;
+		
+		String[] array = str.split("");
+		
+		List<String> list = Arrays.asList(array);
+		
+		while(check) {
+			check = false;
+			List<String> cur_string = new ArrayList<>();
+			cur_string.addAll(list);
+			
+			for(int i = 0; i<list.size(); i++) {
+				
+				if( list.get(i).equals(list.get(i + 1))) {
+					cur_string.remove(i);
+				}
 			}
-			hm.put(arr[i], hm.get(arr[i]) + 1);
+			
 		}
-		for (Character ch : hm.keySet()) {
-			System.out.println(ch + " : " + hm.get(ch));
-		}
-	}
 
-//	public int solution() {}
+		return str;
+		
+	}
+	
 }
