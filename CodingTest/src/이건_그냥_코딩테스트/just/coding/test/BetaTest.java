@@ -28,7 +28,7 @@ public class BetaTest {
 			List<String> cur_string = new ArrayList<>();
 			cur_string.addAll(list);
 			
-			for(int i = 0; i<list.size(); i++) {
+			for(int i = 0; i <list.size() -1 ; i++) {
 				
 				if( list.get(i).equals(list.get(i + 1))) {
 					cur_string.remove(i);

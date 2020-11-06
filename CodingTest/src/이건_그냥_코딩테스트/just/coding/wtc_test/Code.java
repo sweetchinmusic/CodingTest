@@ -36,7 +36,7 @@ public class Code {
 				if( list.get(i).equals(list.get(i + 1))) { // 앞과 뒤가 같은게 있냐
 					System.out.println(cur_string);
 					System.out.println(list.get(i) + " " + list.get(i + 1)); // 아마 얘 때문일껄?
-					cur_string.remove(i ); // List 는 remove해서 지울수가 있나벼 // ArrayList는 안되는 것 같더라고
+					cur_string.remove(i+1); // List 는 remove해서 지울수가 있나벼 // ArrayList는 안되는 것 같더라고
 					cur_string.remove(i);
 					list = cur_string; // 솔직히 이건 읽으면서 이해를 해보자
 					check = true;
