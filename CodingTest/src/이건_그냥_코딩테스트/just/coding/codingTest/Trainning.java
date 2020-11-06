@@ -17,7 +17,7 @@
 
 package 이건_그냥_코딩테스트.just.coding.codingTest;
 
-public class Adidas {
+public class Trainning {
     public int solution(int n, int[] lost, int[] reserve) {
         int answer = 0; // return 값
         int exist = 0;  // 잃어버려도 난 있응께

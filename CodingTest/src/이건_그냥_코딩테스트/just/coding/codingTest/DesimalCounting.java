@@ -29,7 +29,7 @@ public class DesimalCounting { // 소수는 1과 자기 자신 외 다른 수로
 				}
 			}
 			num++;
-			System.out.println(num);
+			System.out.println("num:"+num);
 		}
 		return total;
 	}
