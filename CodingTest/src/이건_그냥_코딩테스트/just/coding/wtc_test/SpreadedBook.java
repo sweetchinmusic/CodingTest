@@ -3,6 +3,10 @@ package 이건_그냥_코딩테스트.just.coding.wtc_test;
 public class SpreadedBook {
 
 	static class Solution {
+		
+		public static void main(String[] args) {
+//			new SpreadedBook().solution(new {0,1); 이거 이중 배열값 어떻게 한다고?
+		}
 		public int solution(int[] pobi, int[] crong) {
 
 			boolean page = validation(pobi, crong);

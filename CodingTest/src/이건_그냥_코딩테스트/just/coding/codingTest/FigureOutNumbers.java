@@ -3,7 +3,7 @@ package 이건_그냥_코딩테스트.just.coding.codingTest;
 import java.util.Arrays;
 import java.util.List;
 
-public class FigureOutNumbers {
+public class FigureOutNumbers { // 이거 미완성임 
 
 	public static void main(String[] args) { // 배열 중에서 하나의 접두어로서 해당되는 것이 있는지.
 		String[] a = { "119", "97674223", "1195524421" };
@@ -15,7 +15,7 @@ public class FigureOutNumbers {
 		boolean answer = false;
 
 		for (int i = 0; i < phone_book.length; i++) { // 배열 하나 씩 돌릴 것임.
-			String[] array = phone_book[i].split("");
+			String[] array = phone_book[i].split(""); 
 			
 			List<String> list = Arrays.asList(phone_book);
 			System.out.println(list);
