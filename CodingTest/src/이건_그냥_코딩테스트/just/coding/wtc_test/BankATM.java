@@ -2,12 +2,10 @@ package 이건_그냥_코딩테스트.just.coding.wtc_test;
 
 import java.util.Arrays;
 
-import 이건_그냥_코딩테스트.just.coding.test.Solution;
-
 public class BankATM {
 
 	public static void main(String[] args) {
-		System.out.println(Arrays.toString(new Solution().solution(410000)));
+		System.out.println(Arrays.toString(new BankATM().solution(410000)));
 		// 
 
 	}
