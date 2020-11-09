@@ -1,4 +1,4 @@
-package com.kh.exception.throwTest.controller;
+package kh.chaptes10_Exception.exception.throwTest.controller;
 
 public class ThrowsTest {
 	// 예외 상황을 발생시키고

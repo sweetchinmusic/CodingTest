@@ -1,6 +1,6 @@
-package com.kh.silsub.run;
+package kh.chapter6_Object.com.kh.silsub.run;
 
-import com.kh.silsub.model.vo.Book;
+import kh.chapter6_Object.com.kh.silsub.model.vo.Book;
 
 public class Main {
 	public static void main(String[] args) {

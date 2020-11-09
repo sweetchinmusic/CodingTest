@@ -1,4 +1,4 @@
-package com.kh.poly.model.vo;
+package kh.chapter8_Polymorphism.poly.model.vo;
 
 // class 예약어 
 // final : 종단클래스 (자식을 만들 수 없다고 함)

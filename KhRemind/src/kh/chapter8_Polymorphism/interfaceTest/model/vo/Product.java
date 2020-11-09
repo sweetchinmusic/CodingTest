@@ -1,4 +1,5 @@
-package com.kh.interfaceTest.model.vo;
+package kh.chapter8_Polymorphism.interfaceTest.model.vo;
+
 
 // 미완성 클래스 / 추상 클래스
 public abstract class Product {

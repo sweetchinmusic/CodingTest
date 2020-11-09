@@ -1,4 +1,4 @@
-package com.kh.list.sort;
+package kh.chaptes12_Collection.list.sort;
 
 public class Product {
 	// Fields

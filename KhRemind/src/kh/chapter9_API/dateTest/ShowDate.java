@@ -1,4 +1,4 @@
-package com.kh.dateTest;
+package kh.chapter9_API.dateTest;
 
 import java.util.Scanner;
 

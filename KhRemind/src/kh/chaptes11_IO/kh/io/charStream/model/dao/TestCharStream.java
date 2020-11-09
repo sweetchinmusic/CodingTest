@@ -1,4 +1,4 @@
-package com.kh.io.charStream.model.dao;
+package kh.chaptes11_IO.kh.io.charStream.model.dao;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;

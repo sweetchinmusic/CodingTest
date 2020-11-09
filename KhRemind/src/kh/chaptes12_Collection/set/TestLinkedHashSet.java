@@ -1,4 +1,4 @@
-package com.kh.set;
+package kh.chaptes12_Collection.set;
 
 import java.util.HashSet;
 import java.util.Set;

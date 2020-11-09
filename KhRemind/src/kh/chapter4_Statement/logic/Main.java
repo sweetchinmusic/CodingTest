@@ -1,4 +1,4 @@
-package com.kh.logic;
+package kh.chapter4_Statement.logic;
 
 
 public class Main {

@@ -1,4 +1,4 @@
-package com.kh.udp.client;
+package kh.chaptes16_NetWork.com.kh.udp.client;
 
 import java.io.IOException;
 import java.net.DatagramPacket;

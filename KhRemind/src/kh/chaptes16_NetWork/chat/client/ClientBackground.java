@@ -1,4 +1,4 @@
-package chat.client;
+package kh.chaptes16_NetWork.chat.client;
  
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

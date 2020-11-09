@@ -1,4 +1,4 @@
-package com.kh.input;
+package kh.chapter2_Variable.input;
 
 import java.util.Scanner; 
 

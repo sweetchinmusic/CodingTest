@@ -1,4 +1,4 @@
-package com.kh.inet;
+package kh.chaptes16_NetWork.com.kh.inet;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;

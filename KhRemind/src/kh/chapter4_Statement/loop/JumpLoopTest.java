@@ -1,4 +1,4 @@
-package com.kh.loop;
+package kh.chapter4_Statement.loop;
 
 public class JumpLoopTest {
 	// 만약 여러 개의 중첩 반복문을

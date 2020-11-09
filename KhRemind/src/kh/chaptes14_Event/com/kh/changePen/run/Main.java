@@ -1,6 +1,6 @@
-package com.kh.changePen.run;
+package kh.chaptes14_Event.com.kh.changePen.run;
 
-import com.kh.changePen.view.MainFrame;
+import kh.chaptes14_Event.com.kh.changePen.view.MainFrame;
 
 public class Main {
 

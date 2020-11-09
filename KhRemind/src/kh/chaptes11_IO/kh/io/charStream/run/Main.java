@@ -1,6 +1,6 @@
-package com.kh.io.charStream.run;
+package kh.chaptes11_IO.kh.io.charStream.run;
 
-import com.kh.io.charStream.model.dao.TestCharStream;
+import kh.chaptes11_IO.kh.io.charStream.model.dao.TestCharStream;
 
 public class Main {
 

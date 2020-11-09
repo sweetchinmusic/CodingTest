@@ -1,6 +1,6 @@
-package com.kh.exception.myExcep.run;
+package kh.chaptes10_Exception.exception.myExcep.run;
 
-import com.kh.exception.myExcep.controller.MyExceptionTest;
+import kh.chaptes10_Exception.exception.myExcep.controller.MyExceptionTest;
 
 public class Main {
 

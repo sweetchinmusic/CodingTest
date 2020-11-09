@@ -1,4 +1,4 @@
-package com.kh.poly.model.vo;
+package kh.chapter8_Polymorphism.poly.model.vo;
 
 public class Tv extends Product { // 좋다 상속을 해버림;
 	private int channel = 1;

@@ -1,6 +1,6 @@
-package com.kh.io.subStream.buffered.run;
+package kh.chaptes11_IO.kh.io.subStream.buffered.run;
 
-import com.kh.io.subStream.buffered.model.dao.TestBufferedStream;
+import kh.chaptes11_IO.kh.io.subStream.buffered.model.dao.TestBufferedStream;
 
 public class Main {
 

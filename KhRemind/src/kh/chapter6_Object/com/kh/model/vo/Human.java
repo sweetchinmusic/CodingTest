@@ -1,4 +1,4 @@
-package com.kh.model.vo;
+package kh.chapter6_Object.com.kh.model.vo;
 
 public class Human {
 	// 객체 지향 언어 (OOP : Object Oriented Programing)

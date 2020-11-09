@@ -1,4 +1,4 @@
-package com.kh.event.view;
+package kh.chaptes14_Event.com.kh.event.view;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

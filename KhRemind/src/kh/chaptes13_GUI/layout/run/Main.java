@@ -1,4 +1,4 @@
-package com.kh.layout.run;
+package kh.chaptes13_GUI.layout.run;
 
 import javax.swing.JFrame;
 

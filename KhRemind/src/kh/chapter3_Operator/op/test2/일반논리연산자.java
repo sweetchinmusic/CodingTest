@@ -1,5 +1,4 @@
-package com.kh.op.test2;
-
+package kh.chapter3_Operator.op.test2;
 import java.util.*;
 
 public class 일반논리연산자 {

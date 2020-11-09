@@ -2,7 +2,7 @@
 /*
  * : 여러 줄 주석
  */
-package com.kh.hello; // 패키지는 클래스를 묶는 단위
+package kh.chapter1_HelloWorld.hello; // 패키지는 클래스를 묶는 단위
 
 /**
  * javadoc : 자바 문서 작성용 주석

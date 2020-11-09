@@ -1,7 +1,7 @@
-package com.kh.container.run;
+package kh.chaptes13_GUI.container.run;
 
-import com.kh.container.view.JFrameTest1;
-import com.kh.container.view.JFrameTest2;
+import kh.chaptes13_GUI.container.view.JFrameTest1;
+import kh.chaptes13_GUI.container.view.JFrameTest2;
 
 public class Main {
 

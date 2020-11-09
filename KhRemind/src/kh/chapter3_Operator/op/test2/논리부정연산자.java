@@ -1,4 +1,4 @@
-package com.kh.op.test2;
+package kh.chapter3_Operator.op.test2;
 import java.util.*;
 public class 논리부정연산자 {
 	// !논리값 : 해당하는 논리값을 반대로 뒤집는 연산자

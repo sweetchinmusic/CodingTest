@@ -1,4 +1,4 @@
-package com.kh.exception.myExcep.exception;
+package kh.chaptes10_Exception.exception.myExcep.exception;
 
 public class MyException extends Exception {
 	// 내가 직접 예외 객체 만들기!

@@ -1,4 +1,4 @@
-package com.kh.method;
+package kh.chapter6_Object.com.kh.method;
 
 public class MethodTest {
 	// 메소드는 다른 메소드를 호출할 수 있다!

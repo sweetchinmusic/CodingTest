@@ -1,4 +1,4 @@
-package ncs2;
+package kh.chaptes14_Event.ncs2;
 
 public class ShowScoreFrame {
 

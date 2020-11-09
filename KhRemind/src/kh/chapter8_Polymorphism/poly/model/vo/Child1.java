@@ -1,4 +1,4 @@
-package com.kh.poly.model.vo;
+package kh.chapter8_Polymorphism.poly.model.vo;
 
 public class Child1 extends Parents{
 	

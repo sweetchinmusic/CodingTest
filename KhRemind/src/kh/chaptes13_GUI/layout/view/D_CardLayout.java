@@ -1,4 +1,4 @@
-package com.kh.layout.view;
+package kh.chaptes13_GUI.layout.view;
 
 import java.awt.CardLayout;
 import java.awt.Color;

@@ -1,4 +1,4 @@
-package com.kh.model.vo;
+package kh.chapter6_Object.com.kh.model.vo;
 
 public class Main2 {
 

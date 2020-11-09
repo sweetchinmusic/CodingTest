@@ -1,4 +1,4 @@
-package com.kh.field;
+package kh.chapter6_Object.com.kh.field;
 
 public class FieldTest {
 	// 필드 예약어 사용하기

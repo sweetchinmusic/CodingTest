@@ -1,4 +1,4 @@
-package com.kh.container.view;
+package kh.chaptes13_GUI.container.view;
 
 import java.io.File;
 import java.io.IOException;

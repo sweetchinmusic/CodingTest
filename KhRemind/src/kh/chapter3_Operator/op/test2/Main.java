@@ -1,4 +1,4 @@
-package com.kh.op.test2;
+package kh.chapter3_Operator.op.test2;
 
 public class Main {
 

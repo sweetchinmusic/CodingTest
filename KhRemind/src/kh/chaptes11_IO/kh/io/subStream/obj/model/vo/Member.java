@@ -1,4 +1,4 @@
-package com.kh.io.subStream.obj.model.vo;
+package kh.chaptes11_IO.kh.io.subStream.obj.model.vo;
 
 import java.io.Serializable;
 

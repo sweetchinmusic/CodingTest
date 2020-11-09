@@ -1,4 +1,4 @@
-package com.kh.thread.test;
+package kh.chaptes15_Thread.thread.test;
 
 public class ThreadTest extends Thread {
 // 스레드를 사용하는 방법 1

@@ -1,9 +1,9 @@
-package com.kh.emp.view;
+package kh.chapter6_Object.emp.view;
 
 import java.util.Scanner;
 
-import com.kh.emp.controller.EmployeeManager;
-import com.kh.emp.model.vo.Employee;
+import kh.chapter6_Object.emp.controller.EmployeeManager;
+import kh.chapter6_Object.emp.model.vo.Employee;
 
 public class EmpMenu {
 //	private Employee emp;// 만약 여러명으로 하고 싶으면 객체 배열을 하면 됩니다.

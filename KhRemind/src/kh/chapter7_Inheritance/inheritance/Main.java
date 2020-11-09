@@ -1,4 +1,4 @@
-package com.kh.inheritance;
+package kh.chapter7_Inheritance.inheritance;
 
 public class Main {
 

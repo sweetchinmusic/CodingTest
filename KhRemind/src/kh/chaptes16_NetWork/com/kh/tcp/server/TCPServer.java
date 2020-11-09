@@ -1,4 +1,4 @@
-package com.kh.tcp.server;
+package kh.chaptes16_NetWork.com.kh.tcp.server;
 
 import java.io.BufferedReader;
 import java.io.IOException;

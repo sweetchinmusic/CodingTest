@@ -1,4 +1,4 @@
-package com.kh.var;
+package kh.chapter2_Variable.var;
 
 public class TestExample3 {
 	public void example() {

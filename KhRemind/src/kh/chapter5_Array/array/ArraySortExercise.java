@@ -1,4 +1,4 @@
-package com.kh.array;
+package kh.chapter5_Array.array;
 
 import java.util.Scanner;
 

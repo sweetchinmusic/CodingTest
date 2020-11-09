@@ -1,6 +1,6 @@
-package com.kh.emp.run;
+package kh.chapter6_Object.emp.run;
 
-import com.kh.emp.view.EmpMenu;
+import kh.chapter6_Object.emp.view.EmpMenu;
 
 public class Main {
 

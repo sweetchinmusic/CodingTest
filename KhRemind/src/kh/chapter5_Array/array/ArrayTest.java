@@ -1,4 +1,4 @@
-package com.kh.array;
+package kh.chapter5_Array.array;
 
 public class ArrayTest {
 	// 기능 제공 메소드만을 담은 클래스

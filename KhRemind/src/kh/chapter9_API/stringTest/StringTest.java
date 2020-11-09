@@ -1,4 +1,4 @@
-package com.kh.stringTest;
+package kh.chapter9_API.stringTest;
 
 import java.util.StringTokenizer;
 

@@ -1,4 +1,4 @@
-package com.kh.silsub;
+package kh.chapter4_Statement.silsub;
 import java.util.*;
 
 public class SilsubTest {

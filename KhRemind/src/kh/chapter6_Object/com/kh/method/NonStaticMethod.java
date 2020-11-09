@@ -1,5 +1,4 @@
-package com.kh.method;
-
+package kh.chapter6_Object.com.kh.method;
 public class NonStaticMethod {
 	// 매개 변수의 유무, 반환 자료형의 유무에 따른
 	// 일반 기능 제공 메소드 사용하기

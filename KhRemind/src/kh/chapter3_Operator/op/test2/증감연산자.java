@@ -1,4 +1,4 @@
-package com.kh.op.test2;
+package kh.chapter3_Operator.op.test2;
 
 public class 증감연산자 {
 	// ++ : 1증가의 의미를 지닌 연산자

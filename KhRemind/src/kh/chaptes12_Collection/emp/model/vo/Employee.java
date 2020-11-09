@@ -1,4 +1,4 @@
-package com.kh.emp.model.vo;
+package kh.chaptes12_Collection.emp.model.vo;
 
 public class Employee {
 	// 사원 정보 클래스 구현

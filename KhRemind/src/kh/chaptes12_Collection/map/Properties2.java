@@ -1,4 +1,5 @@
-package com.kh.map;
+package kh.chaptes12_Collection.map;
+
 
 import java.io.FileInputStream;
 import java.io.FileReader;

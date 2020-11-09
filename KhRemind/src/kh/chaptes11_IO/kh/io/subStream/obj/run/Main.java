@@ -1,6 +1,6 @@
-package com.kh.io.subStream.obj.run;
+package kh.chaptes11_IO.kh.io.subStream.obj.run;
 
-import com.kh.io.subStream.obj.model.dao.TestObjectStream;
+import kh.chaptes11_IO.kh.io.subStream.obj.model.dao.TestObjectStream;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package com.kh.emp.controller;
+package kh.chaptes12_Collection.emp.controller;
 
 import java.util.ArrayList;
 import java.util.Scanner;

@@ -1,10 +1,10 @@
-package com.kh.controller;
+package kh.chaptes12_Collection.kh_review.controller;
 
 import java.util.ArrayList;
 
-import com.kh.model.dao.CoffeeDAO;
-import com.kh.model.excep.CoffeeException;
-import com.kh.model.vo.Coffee;
+import kh.chaptes12_Collection.kh_review.model.dao.CoffeeDAO;
+import kh.chaptes12_Collection.kh_review.model.excep.CoffeeException;
+import kh.chaptes12_Collection.kh_review.model.vo.Coffee;
 
 // #4-2. 커피 여러 개를 관리하는 클래스
 public class CoffeeManager {

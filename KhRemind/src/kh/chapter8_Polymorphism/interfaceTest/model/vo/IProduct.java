@@ -1,4 +1,5 @@
-package com.kh.interfaceTest.model.vo;
+package kh.chapter8_Polymorphism.interfaceTest.model.vo;
+
 /*
  * 인터페이스
  * 추상(미완성) 메소드와 모든 클래스에 공용으로 사용할

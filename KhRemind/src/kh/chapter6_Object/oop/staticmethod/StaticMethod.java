@@ -1,4 +1,4 @@
-package oop.staticmethod;
+package kh.chapter6_Object.oop.staticmethod;
 
 import java.lang.reflect.Array;
 import java.util.Scanner;

@@ -1,6 +1,6 @@
-package com.kh.exception.tryCatch.run;
+package kh.chaptes10_Exception.exception.tryCatch.run;
 
-import com.kh.exception.tryCatch.controller.TryCatchTest;
+import kh.chaptes10_Exception.exception.tryCatch.controller.TryCatchTest;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package com.kh.sync;
+package kh.chaptes15_Thread.sync;
 
 public class WithdrawTest {
 

@@ -1,4 +1,4 @@
-package com.kh.changePen.view;
+package kh.chaptes14_Event.com.kh.changePen.view;
 
 import java.awt.Color;
 

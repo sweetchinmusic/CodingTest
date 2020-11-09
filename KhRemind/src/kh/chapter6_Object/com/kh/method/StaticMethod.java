@@ -1,4 +1,4 @@
-package com.kh.method;
+package kh.chapter6_Object.com.kh.method;
 
 public class StaticMethod {
 	// 프로그램 실행 시 static 영역에 저장되고

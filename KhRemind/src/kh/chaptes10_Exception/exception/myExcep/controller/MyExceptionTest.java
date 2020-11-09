@@ -1,4 +1,4 @@
-package com.kh.exception.myExcep.controller;
+package kh.chaptes10_Exception.exception.myExcep.controller;
 
 import java.util.Scanner;
 

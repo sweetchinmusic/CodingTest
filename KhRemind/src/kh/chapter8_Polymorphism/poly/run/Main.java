@@ -1,6 +1,6 @@
-package com.kh.poly.run;
+package kh.chapter8_Polymorphism.poly.run;
 
-import com.kh.poly.model.vo.*;
+import kh.chapter8_Polymorphism.poly.model.vo.*;
 
 public class Main {
 

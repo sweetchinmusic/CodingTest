@@ -1,10 +1,10 @@
-package com.kh.view;
+package kh.chaptes12_Collection.kh_review.view;
 
 import java.util.Scanner;
 
-import com.kh.controller.CoffeeManager;
-import com.kh.model.excep.CoffeeException;
-import com.kh.model.vo.Coffee;
+import kh.chaptes12_Collection.kh_review.controller.CoffeeManager;
+import kh.chaptes12_Collection.kh_review.model.excep.CoffeeException;
+import kh.chaptes12_Collection.kh_review.model.vo.Coffee;
 
 public class CoffeeMenu {
 	// static을 쓰면 어디까지 공유가 가능

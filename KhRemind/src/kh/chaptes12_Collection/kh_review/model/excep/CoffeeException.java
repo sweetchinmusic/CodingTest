@@ -1,4 +1,4 @@
-package com.kh.model.excep;
+package kh.chaptes12_Collection.kh_review.model.excep;
 
 public class CoffeeException extends Exception {
 

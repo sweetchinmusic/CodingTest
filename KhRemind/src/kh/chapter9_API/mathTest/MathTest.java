@@ -1,4 +1,4 @@
-package com.kh.mathTest;
+package kh.chapter9_API.mathTest;
 
 public class MathTest {
 

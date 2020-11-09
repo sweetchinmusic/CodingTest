@@ -1,4 +1,4 @@
-package com.kh.init;
+package kh.chapter6_Object.com.kh.init;
 
 public class InitTest {
 	// 객체의 필드를 초기화하는 방법

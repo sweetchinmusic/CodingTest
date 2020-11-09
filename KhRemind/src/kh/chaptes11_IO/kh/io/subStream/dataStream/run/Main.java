@@ -1,6 +1,6 @@
-package com.kh.io.subStream.dataStream.run;
+package kh.chaptes11_IO.kh.io.subStream.dataStream.run;
 
-import com.kh.io.subStream.dataStream.model.dao.TestDataStream;
+import kh.chaptes11_IO.kh.io.subStream.dataStream.model.dao.TestDataStream;
 
 public class Main {
 

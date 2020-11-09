@@ -1,4 +1,4 @@
-package com.kh.component.view;
+package kh.chaptes13_GUI.component.view;
 
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;

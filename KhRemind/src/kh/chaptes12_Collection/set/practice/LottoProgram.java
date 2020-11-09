@@ -1,10 +1,10 @@
-package com.kh.set.practice;
+package kh.chaptes12_Collection.set.practice;
 
 import java.util.HashSet;
 import java.util.Random;
 import java.util.TreeSet;
 
-import com.kh.list.sort.Product;
+import kh.chaptes12_Collection.list.sort.Product;
 
 public class LottoProgram {
 		static Random nance = new Random();

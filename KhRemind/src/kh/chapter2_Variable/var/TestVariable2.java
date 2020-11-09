@@ -1,5 +1,5 @@
 // 1. 클래스가 속한 폴더 
-package com.kh.var;
+package kh.chapter2_Variable.var;
 
 // 2.  클래스 이름 선언하기
 // 	 - 클래스 앞글자는 영 대문자로

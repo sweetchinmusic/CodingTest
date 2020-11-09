@@ -1,9 +1,9 @@
-package com.kh.product.run;
+package kh.chapter8_Polymorphism.product.run;
 
-import com.kh.poly.model.vo.Product;
-import com.kh.poly.model.vo.SmartPhone;
-import com.kh.poly.model.vo.Tablet;
-import com.kh.poly.model.vo.Tv;
+import kh.chapter8_Polymorphism.poly.model.vo.Product;
+import kh.chapter8_Polymorphism.poly.model.vo.SmartPhone;
+import kh.chapter8_Polymorphism.poly.model.vo.Tablet;
+import kh.chapter8_Polymorphism.poly.model.vo.Tv;
 
 public class Main {
 

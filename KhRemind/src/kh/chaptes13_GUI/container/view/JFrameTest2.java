@@ -1,4 +1,4 @@
-package com.kh.container.view;
+package kh.chaptes13_GUI.container.view;
 
 import java.awt.Rectangle;
 import java.io.File;

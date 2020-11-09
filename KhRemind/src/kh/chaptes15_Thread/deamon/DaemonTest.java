@@ -1,4 +1,4 @@
-package com.kh.deamon;
+package kh.chaptes15_Thread.deamon;
 
 public class DaemonTest {
 	// 데몬 스레드

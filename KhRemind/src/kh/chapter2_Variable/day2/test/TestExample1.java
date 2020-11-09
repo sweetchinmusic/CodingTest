@@ -1,4 +1,4 @@
-package com.kh.day2.test;
+package kh.chapter2_Variable.day2.test;
 
 import java.util.Scanner;
 

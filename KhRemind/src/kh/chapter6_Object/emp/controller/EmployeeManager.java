@@ -1,8 +1,8 @@
-package com.kh.emp.controller;
+package kh.chapter6_Object.emp.controller;
 
 import java.util.Scanner;
 
-import com.kh.emp.model.vo.Employee;
+import kh.chapter6_Object.emp.model.vo.Employee;
 
 public class EmployeeManager {
 	// 화면(view)와 각 객체를 연결하는 클래스

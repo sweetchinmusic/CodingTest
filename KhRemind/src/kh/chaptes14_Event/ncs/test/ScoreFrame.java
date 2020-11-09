@@ -1,4 +1,4 @@
-package ncs.test;
+package kh.chaptes14_Event.ncs.test;
 
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;

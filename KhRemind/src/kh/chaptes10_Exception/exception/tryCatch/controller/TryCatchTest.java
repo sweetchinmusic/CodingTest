@@ -1,4 +1,4 @@
-package com.kh.exception.tryCatch.controller;
+package kh.chaptes10_Exception.exception.tryCatch.controller;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

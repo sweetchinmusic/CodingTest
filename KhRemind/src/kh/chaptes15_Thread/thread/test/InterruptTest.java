@@ -1,4 +1,4 @@
-package com.kh.thread.test;
+package kh.chaptes15_Thread.thread.test;
 
 import javax.swing.JOptionPane;
 

@@ -1,4 +1,4 @@
-package com.kh.method;
+package kh.chapter6_Object.com.kh.method;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package com.kh.silsub.model.vo;
+package kh.chapter6_Object.com.kh.silsub.model.vo;
 
 public class Book {
 	// 1. 필드 변수 선언

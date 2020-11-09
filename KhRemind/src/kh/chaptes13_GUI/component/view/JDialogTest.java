@@ -1,4 +1,4 @@
-package com.kh.component.view;
+package kh.chaptes13_GUI.component.view;
 
 import java.awt.Dialog;
 import java.awt.event.ActionEvent;

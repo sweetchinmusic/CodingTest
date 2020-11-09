@@ -1,4 +1,4 @@
-package com.kh.cast;
+package kh.chapter2_Variable.cast;
 
 public class CastingTest {
 	// String, System

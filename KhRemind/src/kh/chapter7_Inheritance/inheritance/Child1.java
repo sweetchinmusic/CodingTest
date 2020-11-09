@@ -1,4 +1,4 @@
-package com.kh.inheritance;
+package kh.chapter7_Inheritance.inheritance;
 
 
 public class Child1 extends Parents { // 이건 어떤 용도로 사용하는거??

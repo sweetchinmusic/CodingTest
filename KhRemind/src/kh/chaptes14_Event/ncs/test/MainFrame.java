@@ -1,4 +1,4 @@
-package ncs.test;
+package kh.chaptes14_Event.ncs.test;
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;

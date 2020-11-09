@@ -1,5 +1,5 @@
 // ChatServer 입니다.
-package com.kh.tcp.server;
+package kh.chaptes16_NetWork.com.kh.tcp.server;
 
 import java.net.*;
 import java.io.*;

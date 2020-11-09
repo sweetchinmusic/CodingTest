@@ -1,4 +1,4 @@
-package com.kh.op.test;
+package kh.chapter3_Operator.op.test;
 
 public class TestOperator {
 	

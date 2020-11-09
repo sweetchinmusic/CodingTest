@@ -1,4 +1,4 @@
-package com.kh.loop;
+package kh.chapter4_Statement.loop;
 
 public class ContinueTest {
 	// Continue : 반복문 내에서

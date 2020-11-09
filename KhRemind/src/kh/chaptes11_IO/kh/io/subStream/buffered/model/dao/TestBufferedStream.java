@@ -1,4 +1,4 @@
-package com.kh.io.subStream.buffered.model.dao;
+package kh.chaptes11_IO.kh.io.subStream.buffered.model.dao;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

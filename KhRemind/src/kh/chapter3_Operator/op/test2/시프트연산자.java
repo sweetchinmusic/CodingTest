@@ -1,4 +1,4 @@
-package com.kh.op.test2;
+package kh.chapter3_Operator.op.test2;
 
 public class 시프트연산자 {
 	// 일반 값을 대상으로 하는 것이 아닌

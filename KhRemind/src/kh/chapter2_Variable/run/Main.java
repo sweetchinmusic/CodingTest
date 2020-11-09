@@ -1,9 +1,9 @@
-package com.kh.run;
+package kh.chapter2_Variable.run;
 
-import com.kh.var.*;
-import com.kh.cast.*; //com.kh.cast 밑의 모든 (*) 클래스 추가하기
-import com.kh.input.*;
-import com.kh.day2.test.*;
+import kh.chapter2_Variable.var.*;
+import kh.chapter2_Variable.cast.*; //com.kh.cast 밑의 모든 (*) 클래스 추가하기
+import kh.chapter2_Variable.input.*;
+import kh.chapter2_Variable.day2.test.*;
 
 	public class Main {
 	

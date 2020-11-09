@@ -1,4 +1,4 @@
-package com.kh.model.vo;
+package kh.chapter6_Object.com.kh.model.vo;
 
 public class Person {
 	// 1. 필드 변수 선언하기 

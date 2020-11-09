@@ -1,7 +1,7 @@
-package com.kh.run;
+package kh.chapter6_Object.com.kh.run;
 
-import com.kh.model.vo.Human;
-import com.kh.model.vo.Person;
+import kh.chapter6_Object.com.kh.model.vo.Human;
+import kh.chapter6_Object.com.kh.model.vo.Person;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package com.kh.op.test2;
+package kh.chapter3_Operator.op.test2;
 
 public class 복합대입연산자 {
 	// 대입연산자와 다른 산술 연산를 함께 사용하는 연산자

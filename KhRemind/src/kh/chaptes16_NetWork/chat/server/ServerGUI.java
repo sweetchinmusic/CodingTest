@@ -1,4 +1,4 @@
-package chat.server;
+package kh.chaptes16_NetWork.chat.server;
  
 import java.awt.BorderLayout;
 import java.awt.Color;

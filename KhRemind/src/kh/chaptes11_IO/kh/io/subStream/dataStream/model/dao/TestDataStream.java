@@ -1,4 +1,4 @@
-package com.kh.io.subStream.dataStream.model.dao;
+package kh.chaptes11_IO.kh.io.subStream.dataStream.model.dao;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

@@ -1,4 +1,4 @@
-package ncs2;
+package kh.chaptes14_Event.ncs2;
 
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;

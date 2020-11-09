@@ -1,4 +1,4 @@
-package com.kh.op.test2;
+package kh.chapter3_Operator.op.test2;
 import java.util.*;
 public class 삼항연산자 {
 	//비교할 항목이 3개인 연산자

@@ -1,5 +1,5 @@
 // 1. 패키지 생성 : 어떠한 기능을 가진 클래스들을 하나로 묶는 용도
-package com.kh.var;
+package kh.chapter2_Variable.var;
 
 public class TestVariable1 {
 // 2. 클래스 생성 : 앞글자는 대문자!!!!

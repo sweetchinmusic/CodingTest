@@ -1,4 +1,4 @@
-package com.kh.WrrapperTest;
+package kh.chapter9_API.WrrapperTest;
 
 public class WrapperTest {
 	// 래퍼클래스란

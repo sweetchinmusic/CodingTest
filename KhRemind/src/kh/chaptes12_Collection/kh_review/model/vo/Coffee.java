@@ -1,4 +1,4 @@
-package com.kh.model.vo;
+package kh.chaptes12_Collection.kh_review.model.vo;
 
 import java.io.Serializable;
 

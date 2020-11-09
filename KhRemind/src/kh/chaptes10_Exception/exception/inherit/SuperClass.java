@@ -1,4 +1,4 @@
-package com.kh.exception.inherit;
+package kh.chaptes10_Exception.exception.inherit;
 
 import java.io.IOException;
 

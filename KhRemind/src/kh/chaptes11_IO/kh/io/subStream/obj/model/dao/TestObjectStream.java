@@ -1,4 +1,4 @@
-package com.kh.io.subStream.obj.model.dao;
+package kh.chaptes11_IO.kh.io.subStream.obj.model.dao;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 
-import com.kh.io.subStream.obj.model.vo.Member;
+import kh.chaptes11_IO.kh.io.subStream.obj.model.vo.Member;
 
 public class TestObjectStream {
 	// 객체를 저장하는 입출력 스트림

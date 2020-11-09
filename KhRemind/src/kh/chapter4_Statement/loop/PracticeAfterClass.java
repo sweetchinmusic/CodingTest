@@ -1,4 +1,4 @@
-package com.kh.loop;
+package kh.chapter4_Statement.loop;
 import java.util.Scanner;
 
 public class PracticeAfterClass {

@@ -1,11 +1,11 @@
-package com.kh.event.run;
+package kh.chaptes14_Event.com.kh.event.run;
 
-import com.kh.event.view.AnonymousClassTest;
-import com.kh.event.view.ImplementClassTest;
-import com.kh.event.view.InnerClassTest;
-import com.kh.event.view.KeyEventTest;
-import com.kh.event.view.MouseEventTest;
-import com.kh.event.view.OuterClassTest;
+import kh.chaptes14_Event.com.kh.event.view.AnonymousClassTest;
+import kh.chaptes14_Event.com.kh.event.view.ImplementClassTest;
+import kh.chaptes14_Event.com.kh.event.view.InnerClassTest;
+import kh.chaptes14_Event.com.kh.event.view.KeyEventTest;
+import kh.chaptes14_Event.com.kh.event.view.MouseEventTest;
+import kh.chaptes14_Event.com.kh.event.view.OuterClassTest;
 
 public class Main { // 따로 빼는 이유 여기저기 안 돌아다녀도 되니깐. 실무적임
 

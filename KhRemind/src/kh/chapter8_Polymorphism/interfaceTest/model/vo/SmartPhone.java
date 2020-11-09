@@ -1,4 +1,4 @@
-package com.kh.interfaceTest.model.vo;
+package kh.chapter8_Polymorphism.interfaceTest.model.vo;
 
 import java.io.Serializable;
 

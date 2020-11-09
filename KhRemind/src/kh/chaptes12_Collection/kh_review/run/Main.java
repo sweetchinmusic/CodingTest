@@ -1,6 +1,6 @@
-package com.kh.run;
+package kh.chaptes12_Collection.kh_review.run;
 
-import com.kh.view.CoffeeMenu;
+import kh.chaptes12_Collection.kh_review.view.CoffeeMenu;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package com.kh.model.dao;
+package kh.chaptes12_Collection.kh_review.model.dao;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -8,7 +8,7 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.util.ArrayList;
 
-import com.kh.model.vo.Coffee;
+import kh.chaptes12_Collection.kh_review.model.vo.Coffee;
 
 public class CoffeeDAO {
 	

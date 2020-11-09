@@ -1,6 +1,6 @@
-package com.kh.exception.throwTest.run;
+package kh.chaptes10_Exception.exception.throwTest.run;
 
-import com.kh.exception.throwTest.controller.ThrowsTest;
+import kh.chaptes10_Exception.throwTest.controller.ThrowsTest;
 
 public class Main {
 

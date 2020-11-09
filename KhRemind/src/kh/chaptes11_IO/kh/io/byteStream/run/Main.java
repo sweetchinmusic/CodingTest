@@ -1,6 +1,6 @@
-package com.kh.io.byteStream.run;
+package kh.chaptes11_IO.kh.io.byteStream.run;
 
-import com.kh.io.byteStream.model.dao.TestByteStream;
+import kh.chaptes11_IO.kh.io.byteStream.model.dao.TestByteStream;
 
 public class Main {
 

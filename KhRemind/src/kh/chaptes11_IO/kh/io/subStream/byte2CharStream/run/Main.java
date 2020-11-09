@@ -1,6 +1,6 @@
-package com.kh.io.subStream.byte2CharStream.run;
+package kh.chaptes11_IO.kh.io.subStream.byte2CharStream.run;
 
-import com.kh.io.subStream.byte2CharStream.TestByteToCharStream;
+import kh.chaptes11_IO.kh.io.subStream.byte2CharStream.TestByteToCharStream;
 
 public class Main {
 

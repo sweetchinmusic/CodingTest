@@ -1,4 +1,4 @@
-package com.kh.dateTest;
+package kh.chapter9_API.dateTest;
 
 import java.util.Calendar;
 import java.util.GregorianCalendar;

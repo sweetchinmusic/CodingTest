@@ -1,4 +1,4 @@
-package com.kh.exception.inherit;
+package kh.chaptes10_Exception.exception.inherit;
 
 public class SubClass extends SuperClass {
 	// 자식 메소드는

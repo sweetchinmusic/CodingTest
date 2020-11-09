@@ -1,4 +1,4 @@
-package com.kh.list;
+package kh.chaptes12_Collection.list;
 
 import java.util.ArrayList;
 import java.util.Collections;

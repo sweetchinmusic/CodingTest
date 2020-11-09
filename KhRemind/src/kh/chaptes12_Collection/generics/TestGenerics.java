@@ -1,5 +1,4 @@
-package com.kh.generics;
-
+package kh.chaptes12_Collection.generics;
 import java.util.ArrayList;
 import java.util.List;
 

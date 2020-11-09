@@ -1,4 +1,4 @@
-package com.kh.array;
+package kh.chapter5_Array.array;
 
 public class ArraySort {
 	// 배열 안의 값들을 특정 형식(오름차순, 내림차순)으로

@@ -1,4 +1,4 @@
-package com.kh.io.byteStream.model.dao;
+package kh.chaptes11_IO.kh.io.byteStream.model.dao;
 
 import java.io.File;
 import java.io.FileInputStream;

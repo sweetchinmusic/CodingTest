@@ -1,4 +1,4 @@
-package com.kh.io.subStream.byte2CharStream;
+package kh.chaptes11_IO.kh.io.subStream.byte2CharStream;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
